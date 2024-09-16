@@ -19,3 +19,5 @@ Tracks which products are available at specific stores, including store-specific
 
 ## Inventory_levels:
 Manages current stock levels for each product at each store, including the current quantity, minimum stock threshold for restocking, and the last time inventory was updated. This table helps in inventory monitoring and optimal stock management.
+
+![Entity Data Model](https://raw.githubusercontent.com/DamilolaAdeniji/Data-Modeling-Assignment/main/Task_1%20-%20Entity%20Data%20Model/Fufu_Republic_ER.png)
